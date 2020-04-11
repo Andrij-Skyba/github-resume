@@ -1,0 +1,29 @@
+.a {
+  height: 300px;
+  width: 300px;
+  background-color: palegreen;
+  display: inline-block;
+  margin: 100px;
+  padding: 150px;
+}
+.b {
+  height: 100px;
+  width: 100px;
+  background-color: coral;
+  margin: 50px;
+  padding: 100px;
+}
+.aa {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+  display: inline-block;
+}
+.bb {
+  background-color: #111111;
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
